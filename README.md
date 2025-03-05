@@ -33,7 +33,7 @@ DBShield automates database backups, compresses them, and securely uploads them 
 1️⃣ **Clone the Repository**
 
 ```sh
-git clone https://github.com/yourusername/dbshield.git
+git clone https://github.com/Kirankumarvel/dbshield.git
 cd dbshield
 ```
 
