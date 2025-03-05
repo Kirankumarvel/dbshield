@@ -100,7 +100,7 @@ Feel free to submit issues, pull requests, and suggestions!
 
 ## 📃 License
 
-MIT License © 2025 Your Name
+MIT License © 2025 Kiran Kumar V
 
 🚀 Secure your data with DBShield – automated & reliable backups!
 ```
