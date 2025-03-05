@@ -44,4 +44,3 @@ find "$BACKUP_DIR" -type f -name "${DB_NAME}_backup_*.sql.gz" -mtime +$RETENTION
 
 # Completion message
 echo "Backup completed successfully: $BACKUP_FILE"
-```
